@@ -6,11 +6,6 @@ When a file is uploaded to an S3 bucket, a Lambda function is triggered that sta
 
 ---
 
-## Architecture
-
-
----
-
 ## AWS Services Used
 
 - Amazon S3
